@@ -47,4 +47,20 @@ public extension EnumCollection where Self: RawRepresentable {
             return e.rawValue
         })
     }
+    
+    /// Dictionary of all cases and raw values
+    public static var allContents: [[Self: Self.RawValue]] {
+        return Self.allValues.map({ (e) -> [Self: Self.RawValue] in
+            return [e: e.rawValue]
+        })
+    }
+}
+
+public extension Array where Element: RawRepresentable {
+    /// Array of all raw values
+    public var rawValues: [Element.RawValue] {
+        return map({ (e) -> Element.RawValue in
+            return e.rawValue
+        })
+    }
 }

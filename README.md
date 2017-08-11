@@ -2,7 +2,7 @@
 <p align="center">
   <!-- <img src="" alt="EnumCollection"> -->
   <br/><a href="https://cocoapods.org/pods/EnumCollection">
-  <img alt="Version" src="https://img.shields.io/badge/version-1.1.0-brightgreen.svg">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.2.0-brightgreen.svg">
   <img alt="Author" src="https://img.shields.io/badge/author-Meniny-blue.svg">
   <img alt="Build Passing" src="https://img.shields.io/badge/build-passing-brightgreen.svg">
   <img alt="Swift" src="https://img.shields.io/badge/swift-3.0%2B-orange.svg">
@@ -55,10 +55,16 @@ public enum SomeEnumType: Int, EnumCollection {
     case a, b, c
 }
 
-for s in SomeEnumType.allValues {
-    print(s.rawValue)
-}
+print(SomeEnumType.allCases)
+print(SomeEnumType.allValues)
+print(SomeEnumType.allValues.rawValues)
+print(SomeEnumType.allRaws)
+print(SomeEnumType.allContents)
+```
 
-let raws = SomeEnumType.allRaws
-print(raws)
+```swift
+extension UITableViewRowAnimation: EnumCollection {}
+
+let animations = UITableViewRowAnimation.allValues
+print(animations)
 ```

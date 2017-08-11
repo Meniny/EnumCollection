@@ -13,17 +13,21 @@ public enum SomeEnumType: Int, EnumCollection {
     case a, b, c
 }
 
+extension UITableViewRowAnimation: EnumCollection {}
+
 class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let all = SomeEnumType.allValues
-        for s in all {
-            print(s.rawValue)
-        }
-        let raws = SomeEnumType.allRaws
-        print(raws)
+        print(SomeEnumType.allCases)
+        print(SomeEnumType.allValues)
+        print(SomeEnumType.allValues.rawValues)
+        print(SomeEnumType.allRaws)
+        print(SomeEnumType.allContents)
+        
+        let animations = UITableViewRowAnimation.allValues
+        print(animations)
     }
     
     override func didReceiveMemoryWarning() {
