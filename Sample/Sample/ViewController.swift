@@ -19,10 +19,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         let all = SomeEnumType.allValues
-        print(all)
         for s in all {
             print(s.rawValue)
         }
+        let raws = SomeEnumType.allRaws
+        print(raws)
     }
     
     override func didReceiveMemoryWarning() {

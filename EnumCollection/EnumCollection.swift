@@ -11,6 +11,7 @@ import Foundation
 public protocol EnumCollection: Hashable {}
 
 public extension EnumCollection {
+    /// Sequence of all cases
     public static var allCases: AnySequence<Self> {
         typealias S = Self
         return AnySequence { () -> AnyIterator<S> in
@@ -30,9 +31,20 @@ public extension EnumCollection {
         }
     }
     
+    /// Array of all cases
     public static var allValues: [Self] {
         return Self.allCases.map({ (e) -> Self in
             return e
+        })
+    }
+    
+}
+
+public extension EnumCollection where Self: RawRepresentable {
+    /// Array of all raw values
+    public static var allRaws: [Self.RawValue] {
+        return Self.allValues.map({ (e) -> Self.RawValue in
+            return e.rawValue
         })
     }
 }
