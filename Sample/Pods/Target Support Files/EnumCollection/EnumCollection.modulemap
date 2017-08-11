@@ -1,0 +1,6 @@
+framework module EnumCollection {
+  umbrella header "EnumCollection-umbrella.h"
+
+  export *
+  module * { export * }
+}

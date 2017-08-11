@@ -1,0 +1,117 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": null,
+      "symbol": "EnumCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": null,
+      "symbol": "EnumCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": null,
+      "symbol": "EnumCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": null,
+      "symbol": "EnumCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 11,
+      "symbol": "EnumCollection",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 11,
+      "symbol": "EnumCollection",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 11,
+      "symbol": "EnumCollection",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 11,
+      "symbol": "EnumCollection",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 14,
+      "symbol": "EnumCollection.allCases",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 14,
+      "symbol": "EnumCollection.allCases",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 14,
+      "symbol": "EnumCollection.allCases",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 14,
+      "symbol": "EnumCollection.allCases",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 33,
+      "symbol": "EnumCollection.allValues",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 33,
+      "symbol": "EnumCollection.allValues",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 33,
+      "symbol": "EnumCollection.allValues",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/EnumCollection/EnumCollection/EnumCollection.swift",
+      "line": 33,
+      "symbol": "EnumCollection.allValues",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/Meniny/Projects/Github/EnumCollection"
+}
