@@ -32,20 +32,20 @@
 		153661F3ED3C2AB91CF6BC9C541206BC /* EnumCollection-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "EnumCollection-dummy.m"; sourceTree = "<group>"; };
 		2F7B0601077E0BC39893620F5ED779E1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		37DC708BC4319E926FDE530CA9296BCB /* Pods-EnumCollectionSample-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EnumCollectionSample-acknowledgements.plist"; sourceTree = "<group>"; };
-		499F5051B02B8A941E7F2A58DB776D7C /* Pods_EnumCollectionSample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EnumCollectionSample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		499F5051B02B8A941E7F2A58DB776D7C /* Pods_EnumCollectionSample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_EnumCollectionSample.framework; path = "Pods-EnumCollectionSample.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B2110CE5181BAB7E5E1DB1C54FAD176 /* Pods-EnumCollectionSample-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EnumCollectionSample-resources.sh"; sourceTree = "<group>"; };
 		6021EA0E63116320295A5F4809253A82 /* EnumCollection.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EnumCollection.h; path = EnumCollection/EnumCollection.h; sourceTree = "<group>"; };
 		6451F6580E0DE8503D517C8EE88A3B97 /* EnumCollection-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "EnumCollection-umbrella.h"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		775F476DF87408D6040867E9ECE4A8E2 /* EnumCollection.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = EnumCollection.modulemap; sourceTree = "<group>"; };
+		775F476DF87408D6040867E9ECE4A8E2 /* EnumCollection.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = EnumCollection.modulemap; sourceTree = "<group>"; };
 		822327FA71F4A9C95C3D99645B41751F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8E83E4B39E183859F602FEF790B7A401 /* EnumCollection.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EnumCollection.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8E83E4B39E183859F602FEF790B7A401 /* EnumCollection.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = EnumCollection.framework; path = EnumCollection.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9C88BC49CD0CD923A7CDDAD059077379 /* Pods-EnumCollectionSample-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EnumCollectionSample-umbrella.h"; sourceTree = "<group>"; };
 		A4568ABFD8F031EC4653A0CEF8B8A2ED /* Pods-EnumCollectionSample-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EnumCollectionSample-frameworks.sh"; sourceTree = "<group>"; };
 		A4ACDFC6E8C78EC6B58C4081200F5D82 /* EnumCollection.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = EnumCollection.xcconfig; sourceTree = "<group>"; };
 		A4C8E86D631F9629FFBEA7E8550A000E /* Pods-EnumCollectionSample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EnumCollectionSample.release.xcconfig"; sourceTree = "<group>"; };
-		B11821F0749F3E9ED48ED4CAEF29343D /* Pods-EnumCollectionSample.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-EnumCollectionSample.modulemap"; sourceTree = "<group>"; };
+		B11821F0749F3E9ED48ED4CAEF29343D /* Pods-EnumCollectionSample.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-EnumCollectionSample.modulemap"; sourceTree = "<group>"; };
 		BA7E977C721D98BD78827F918FE92266 /* Pods-EnumCollectionSample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EnumCollectionSample.debug.xcconfig"; sourceTree = "<group>"; };
 		CC7F912F95D59F362628999F290CAA97 /* EnumCollection-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "EnumCollection-prefix.pch"; sourceTree = "<group>"; };
 		D9A6EC33C7C9426DD131158C1611D3FC /* EnumCollection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EnumCollection.swift; path = EnumCollection/EnumCollection.swift; sourceTree = "<group>"; };
@@ -282,37 +282,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		04E02EEA728D2A564D2565F9017CBE7C /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A4ACDFC6E8C78EC6B58C4081200F5D82 /* EnumCollection.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/EnumCollection/EnumCollection-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/EnumCollection/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/EnumCollection/EnumCollection.modulemap";
-				PRODUCT_NAME = EnumCollection;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		1A0970D201EFDD5CAE62054E295F3472 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BA7E977C721D98BD78827F918FE92266 /* Pods-EnumCollectionSample.debug.xcconfig */;
@@ -374,6 +343,38 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		408DD7078AA4A4DE22412C2DE4E6301E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A4ACDFC6E8C78EC6B58C4081200F5D82 /* EnumCollection.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/EnumCollection/EnumCollection-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/EnumCollection/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/EnumCollection/EnumCollection.modulemap";
+				PRODUCT_NAME = EnumCollection;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -496,7 +497,7 @@
 			};
 			name = Debug;
 		};
-		DFDAADEE2EB9FFB4D450B848AAF033DC /* Release */ = {
+		EB42705AFBAF5791E6258DD0E26468B3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A4ACDFC6E8C78EC6B58C4081200F5D82 /* EnumCollection.xcconfig */;
 			buildSettings = {
@@ -519,14 +520,13 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
@@ -552,8 +552,8 @@
 		9C0E432EB532A7C3831E9D0211BDD81F /* Build configuration list for PBXNativeTarget "EnumCollection" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04E02EEA728D2A564D2565F9017CBE7C /* Debug */,
-				DFDAADEE2EB9FFB4D450B848AAF033DC /* Release */,
+				EB42705AFBAF5791E6258DD0E26468B3 /* Debug */,
+				408DD7078AA4A4DE22412C2DE4E6301E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

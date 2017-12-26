@@ -1,5 +1,5 @@
 PODS:
-  - EnumCollection (1.2.0)
+  - EnumCollection (1.3.0)
 
 DEPENDENCIES:
   - EnumCollection (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  EnumCollection: 9dc566b47eeb77e1b1d69dfa51c6441fcace4666
+  EnumCollection: 4d216cf1c4e49d6763ec3661511ba700cc570043
 
 PODFILE CHECKSUM: 045554b183b9b0072348a3a541367145cd7409b2
 
