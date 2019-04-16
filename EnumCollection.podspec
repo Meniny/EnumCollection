@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "EnumCollection"
-  s.version          = "1.3.0"
+  s.version          = "1.4.0"
   s.summary          = "An Extension for Swift Enum Type"
   s.description      = <<-DESC
                         EnumCollection is an Extension for Swift Enum Type.
@@ -11,6 +11,9 @@ Pod::Spec.new do |s|
   s.author           = { "Elias Abel" => "Meniny@qq.com" }
   s.source           = { :git => "https://github.com/Meniny/EnumCollection.git", :tag => s.version.to_s }
   s.social_media_url = 'https://meniny.cn/'
+
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5' }
+  s.swift_version       = '5'
 
   s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.10'
